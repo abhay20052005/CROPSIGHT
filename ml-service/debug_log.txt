@@ -1,0 +1,6 @@
+DEBUG: predictions type = <class 'numpy.ndarray'>
+DEBUG: predictions shape = (1, 39)
+DEBUG: predictions[0] length = 39
+DEBUG: predicted_idx = 4
+DEBUG: len(CLASS_NAMES) = 39
+DEBUG: raw_class = Blueberry___healthy
