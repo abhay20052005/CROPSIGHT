@@ -1,0 +1,6 @@
+for ml service
+
+cd ml-service
+
+.\venv\Scripts\activate
+python app.py
